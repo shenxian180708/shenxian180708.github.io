@@ -14,7 +14,7 @@
 
 .navbar{
     background-color: #23b1a5;
-
+    font-size: 1.7rem;
 }
 
 .navbar-default .navbar-nav>li>a{
@@ -217,7 +217,7 @@ img{
     margin-top: 80px;
     padding-top: 1.5rem;
     background-color: #167c80;
-    color: white;
+    color: #e7e7e7;
 }
 .footer-information .row .footer-title:nth-child(3){
 
