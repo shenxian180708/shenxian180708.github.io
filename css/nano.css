@@ -4,11 +4,19 @@
     padding-right: 0;
 }
 .banner{
-    background-image:url("../images/Brand.png");
+    background-image:url("../images/Post.png");
     height:90px;
     background-size:cover;
-    text-align: center;
     width:100%;
+    color: white;
+    text-align: left;
+    font-size: 4.0rem;
+    padding-top: 1.5rem;
+    display: block;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
 }
 
 
